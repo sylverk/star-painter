@@ -8,7 +8,7 @@
  pick a color and + or - to increase/decrease the brush size. The clear button
  will clear the canvas without further warning, so tread carefully around it.
 
-![Screenshot of Program Run](star-painter/src/screenshot-running.png?raw=true "Lovely!")
+![Screenshot of Program Run](/star-painter/src/screenshot-running.png?raw=true "Lovely!")
 
       
     
