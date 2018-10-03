@@ -7,6 +7,8 @@
  change the brush size and color. You can also press 1-6 on the keyboard to
  pick a color and + or - to increase/decrease the brush size. The clear button
  will clear the canvas without further warning, so tread carefully around it.
+ 
+ To run: Download MagicStarPainter.jar and double click to run, or type java -jar "MagicStarPainter.jar" into the command line. You may need to run as the administrator on Windows. You may need to manually allow the program to run on Mac OS (Settings > Security and Privacy after attempting to run).
 
 ![Screenshot of Program Run](/screenshot-running.png?raw=true "Screenshot of Program Run")
 
