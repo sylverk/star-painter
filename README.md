@@ -7,3 +7,8 @@
  change the brush size and color. You can also press 1-6 on the keyboard to
  pick a color and + or - to increase/decrease the brush size. The clear button
  will clear the canvas without further warning, so tread carefully around it.
+
+![Screenshot of Program Run](star-painter/src/screenshot-running.png?raw=true "Lovely!")
+
+      
+    
